@@ -1,7 +1,8 @@
 ## hello-world
 
 ### App Description
-Displays "Hello from Rose!" Allows user to change text color.
+- Displays "Hello from Rose!"
+- Allows user to change text color.
 
 ### App Walk-though
 <img src="http://g.recordit.co/5YNP8rxLeo.gif" width=200><br>
